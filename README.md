@@ -94,13 +94,14 @@ me.say_hi()
 
 | 🔥 Project | 💡 Description | 🛠️ Stack |
 |:---|:---|:---|
-| **[🧠 AI Symptom Checker]** | NLP-powered medical assistant that maps symptoms to diseases with 91% accuracy | Python · FastAPI · NLP · React |
-| **[📊 Sales Insight Dashboard]** | Real-time sales analytics dashboard with distributor route tracking | React · TypeScript · Flask · AWS |
-| **[🎯 CNN Image Classifier]** | Deep learning model for multi-class image classification (95%+ accuracy) | Python · TensorFlow · Keras · CNN |
-| **[🤖 Auto Job Agent]** | Autonomous agent that searches and applies for jobs based on resume | Python · REST APIs · Prompt Eng. |
-| **[📦 Inventory Tracker API]** | RESTful backend API with CRUD, JWT auth, and Docker deployment | FastAPI · Docker · AWS EC2 · S3 |
+| **[🌍 AI Travel Planner](https://travel-eight-sooty.vercel.app)** | Location-aware travel planner generating personalized itineraries · Reduced travel time by 30% | Python · React · Location APIs |
+| **[🍳 AI Recipe Generator](https://recipe-generator2.vercel.app)** | AI-powered recipe generation based on user preferences · 95% user satisfaction · Sub-2 sec response | React · AI · Prompt Engineering |
+| **[🤖 Workflow Automation](https://github.com/vamshi482)** | Automated 1000+ monthly messages via WhatsApp, Telegram & SMS · Integrated webhooks with Excel & DB | n8n · AWS EC2 · Docker · Webhooks |
+| **[🍦 Moores Ice Cream Platform](https://moores.vercel.app)** | Live startup platform handling real customer orders · Used by 50+ customers · Order tracking system | React · Flask · REST API |
 
 </div>
+
+> 📌 **Click any project above to visit the live demo!**
 
 > 📌 **Pinned repos below** — each has a proper README, demo GIF, and clear setup instructions.
 
