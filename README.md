@@ -39,38 +39,54 @@ me.say_hi()
 ```
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-00897B?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 🌐 Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005C97?style=for-the-badge&logo=protocols.io&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=zapier&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-00897B?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=spacy&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN%20%7C%20Deep%20Learning-00897B?style=for-the-badge&logo=pytorch&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🌐 Computer Networks
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0052CC?style=for-the-badge&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-005C97?style=for-the-badge&logo=cloudflare&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI_Model-00897B?style=for-the-badge&logo=cisco&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-E34F26?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
