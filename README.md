@@ -151,9 +151,18 @@ me.say_hi()
 
 <div align="center">
 
-[![Vamshireddy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vamshi482&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vamshi482&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Vamshireddy's%20Code%20Journey%20🚀&radius=16"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vamshi482&bg_color=ffffff&color=7c3aed&line=a78bfa&point=7c3aed&area=true&hide_border=true&custom_title=Vamshireddy's%20Code%20Journey%20🚀&radius=16"/>
+  <img alt="Vamshireddy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vamshi482&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Vamshireddy's%20Code%20Journey%20🚀&radius=16" width="100%"/>
+</picture>
 
-</div>
+<br/>
+```
+💡 Every commit is a step forward. Every push is progress. Every repo is a story.
+```
+
+</div>>
 
 ---
 
