@@ -1,16 +1,15 @@
-## Hi there 👋
+class Vamshireddy:
+    def __init__(self):
+        self.name        = "Vamshireddy"
+        self.degree      = "B.Tech – Artificial Intelligence & Machine Learning"
+        self.location    = "Hyderabad, India 🇮🇳"
+        self.role        = ["Full Stack Developer", "ML Engineer", "AI App Developer"]
+        self.currently   = "Building real-world AI-powered applications"
+        self.looking_for = "Full-time roles in AI/ML & Full Stack Development"
+        self.fun_fact    = "I debug code faster than I debug life 😄"
 
-<!--
-**vamshi482/vamshi482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = Vamshireddy()
+me.say_hi()
