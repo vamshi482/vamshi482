@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/vamshi482">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=BTech+AIML+%40+JMALLAREDDY=UNIVERSITY;Full+Stack+%7C+ML+%7C+AI+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=BTech+AIML+%40+MALLAREDDY+UNIVERSITY;Full+Stack+%7C+ML+%7C+AI+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%91%80" alt="Typing SVG" />
 </a>
 
 <br/>
