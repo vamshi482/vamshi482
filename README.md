@@ -88,18 +88,31 @@ me.say_hi()
 </div>
 ---
 
+## 💼 Internship Experience
+
+<div align="center">
+
+| 🏢 Company | 📅 Duration | 📍 Location | 💡 Work Done | 🛠️ Stack |
+|:---|:---|:---|:---|:---|
+| **[🍦 Moores Ice Cream](https://moores.vercel.app)** | 3 Months | Kukatpally, Hyderabad | Built React platform used by 50+ customers · Implemented order tracking & status management · Collaborated with stakeholders on production features | React · Flask · REST API |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | 🔥 Project | 💡 Description | 🛠️ Stack |
 |:---|:---|:---|
-| **[🌍 AI Travel Planner](https://travel-eight-sooty.vercel.app)** | Location-aware travel planner generating personalized itineraries · Reduced travel time by 30% | Python · React · Location APIs |
-| **[🍳 AI Recipe Generator](https://recipe-generator2.vercel.app)** | AI-powered recipe generation based on user preferences · 95% user satisfaction · Sub-2 sec response | React · AI · Prompt Engineering |
-| **[🤖 Workflow Automation](https://github.com/vamshi482)** | Automated 1000+ monthly messages via WhatsApp, Telegram & SMS · Integrated webhooks with Excel & DB | n8n · AWS EC2 · Docker · Webhooks |
-| **[🍦 Moores Ice Cream Platform](https://moores.vercel.app)** | Live startup platform handling real customer orders · Used by 50+ customers · Order tracking system | React · Flask · REST API |
+| **[🌍 AI Travel Planner](https://travel-eight-sooty.vercel.app)** | Location-aware travel planner generating personalized itineraries · Reduced travel time by 30% through intelligent route optimization | React · Location APIs · Python |
+| **[🍳 AI Recipe Generator](https://recipe-generator2.vercel.app)** | AI-powered recipe generation based on user preferences · 95% user satisfaction · Sub-2 second response time | React · AI · Prompt Engineering |
+| **[🤖 Workflow Automation](https://github.com/vamshi482)** | Automated 1000+ monthly messages via WhatsApp, Telegram & SMS · Integrated webhooks to sync Excel & database records | n8n · AWS EC2 · Docker · Webhooks |
 
 </div>
+
+> 📌 **Click any project to visit the live demo!**
 
 > 📌 **Click any project above to visit the live demo!**
 
