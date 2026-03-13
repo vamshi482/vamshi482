@@ -22,7 +22,6 @@
 </div>
 
 ---
-
 ```python
 class Vamshireddy:
 
