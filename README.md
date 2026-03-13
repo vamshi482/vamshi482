@@ -90,6 +90,11 @@ me.say_hi()
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🌐 Protocols
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-E34F26?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
 </div>
 
 ---
