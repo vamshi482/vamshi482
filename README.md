@@ -1,8 +1,13 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vamshireddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Python%20Developer&descAlignY=60&descAlign=50&descColor=a78bfa" width="100%"/>
 
+🚀 **AI/ML Enthusiast | Python Developer | Building Real-World AI Applications**
+
+<!-- ANIMATED TYPING SVG -->
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/vamshi482">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=BTech+AIML+%40+Mallareddy+University;Python+%7C+Flask+%7C+FastAPI;React+%7C+TypeScript+%7C+REST+APIs;CNN+%7C+NLP+%7C+Deep+Learning;OOPs+%7C+SQL+%7C+MySQL;AWS+S3+%7C+EC2+%7C+IAM+%7C+Lambda;Docker+%7C+Linux+%7C+Git;Open+to+Opportunities+%F0%9F%91%80+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%91%80" alt="Typing SVG" />
