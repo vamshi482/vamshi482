@@ -21,7 +21,9 @@
 
 </div>
 
+</div>
 
+## 🧠 About Me
 ```python
 class Vamshireddy:
 
