@@ -173,8 +173,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vamshi482/vamshi482/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
+<img src="https://raw.githubusercontent.com/vamshi482/vamshi482/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
