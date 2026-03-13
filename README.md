@@ -41,15 +41,14 @@ class Vamshireddy:
 
 me = Vamshireddy()
 me.say_hi()
-## 🎯 Current Focus
-
-- 🧠 Improving Python problem solving and logic building  
-- 🤖 Learning Machine Learning and AI tools  
-- 🌐 Building real-world projects  
-- 📚 Preparing for coding interviews
 ```
 
----
+## 🎯 Current Focus
+
+- 🧠 Improving **Python problem solving and logic building**  
+- 🤖 Learning **Machine Learning and AI tools**  
+- 🌐 Building **real-world full stack projects**  
+- 📚 Preparing for **coding interviews and placements**
 ## 🛠️ Tech Stack
 
 <div align="center">
