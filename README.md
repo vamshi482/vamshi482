@@ -78,22 +78,18 @@ me.say_hi()
 ### 🤖 AI / ML
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-00897B?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=spacy&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🌐 Protocols
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-E34F26?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 </div>
 
