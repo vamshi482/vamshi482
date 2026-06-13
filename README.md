@@ -85,7 +85,7 @@ me.say_hi()
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ### 🌐 Protocols
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-E34F26?style=for-the-badge&logo=letsencrypt&logoColor=white)
