@@ -115,7 +115,6 @@ me.say_hi()
 |:---|:---|:---|
 | **[🌍 AI Travel Planner](https://travel-eight-sooty.vercel.app)** | Location-aware travel planner with personalized itineraries · 30% route optimization | React · Python · Location APIs |
 | **[🍳 AI Recipe Generator](https://recipe-generator2.vercel.app)** | AI-powered recipe generation · 95% user satisfaction · Sub-2s response time | React · AI · Prompt Engineering |
-| **[🤖 Workflow Automation](https://github.com/vamshi482)** | Automated 1000+ monthly messages via WhatsApp, Telegram & SMS · Webhook sync | n8n · AWS EC2 · Docker |
 
 </div>
 
