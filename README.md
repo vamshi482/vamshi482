@@ -25,9 +25,9 @@ class Vamshireddy:
     role = ["Full Stack Developer", "ML Engineer", "AI App Developer"]
 
     skills = {
-        "frontend": ["React", "TypeScript", "Tailwind CSS"],
+        "frontend": ["React", "Tailwind CSS"],
         "backend": ["FastAPI", "Flask", "Node.js"],
-        "ai_ml": ["Python", "CNN", "NLP", "Prompt Engineering"],
+        "ai_ml": ["Python", "NumPy", "Pandas", "Scikit-learn", "Matplotlib", "CNN", "NLP", "Prompt Engineering"],
         "devops": ["Docker", "AWS", "n8n", "CI/CD"],
         "database": ["PostgreSQL", "MySQL", "MongoDB"],
     }
@@ -41,7 +41,7 @@ class Vamshireddy:
 
 me = Vamshireddy()
 me.say_hi()
-```
+` ` `
 
 ---
 
@@ -60,36 +60,128 @@ me.say_hi()
 <div align="center">
 
 ### 💻 Languages
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+### 🐍 Python Libraries
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 ### 🌐 Frontend & Backend
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
+
+
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+
 ### 🗄️ Databases
+
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+
 ### 🤖 AI / ML
+
+
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-00897B?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+
+
 ![CNN](https://img.shields.io/badge/CNN-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+
+
+
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
 
+
+
 ### ☁️ Cloud & DevOps
+
+
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
+
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+
 ### 🌐 Protocols
+
+
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-E34F26?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+
+
+
 ![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
 
 </div>
 
@@ -129,7 +221,11 @@ me.say_hi()
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vamshi482&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=a78bfa&dates=888888)](https://git.io/streak-stats)
+[
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vamshi482&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=a78bfa&dates=888888)
+
+](https://git.io/streak-stats)
 
 </div>
 
@@ -139,7 +235,11 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vamshi482&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[
+
+![trophy](https://github-profile-trophy.vercel.app/?username=vamshi482&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)
+
+](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -159,8 +259,16 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-chintu-reddy-649049283/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vamshichintureddy@gmail.com)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/vamshi-chintu-reddy-649049283/)
+[
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](https://mail.google.com/mail/?view=cm&to=vamshichintureddy@gmail.com)
 
 </div>
 
